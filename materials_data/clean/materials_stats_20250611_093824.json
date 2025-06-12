@@ -1,0 +1,14 @@
+{
+  "autres": {
+    "count": 7,
+    "prix_moyen": 189.83,
+    "prix_min": 6.9,
+    "prix_max": 799.0
+  },
+  "fer": {
+    "count": 24,
+    "prix_moyen": 176.08,
+    "prix_min": 59.0,
+    "prix_max": 399.0
+  }
+}

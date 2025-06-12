@@ -1,0 +1,223 @@
+{
+  "resumé_général": {
+    "total_produits": 498,
+    "date_analyse": "2025-06-11T10:08:06.750729",
+    "prix_moyen": 277467.4738955823,
+    "prix_médian": 29900.0,
+    "prix_min": 1200.0,
+    "prix_max": 7199000.0,
+    "écart_type": 817468.7320311302
+  },
+  "par_catégorie": {
+    "Quincaillerie": {
+      "nombre_produits": 53,
+      "prix_moyen": 291116.9811320755,
+      "prix_min": 1300.0,
+      "prix_max": 3999000.0,
+      "pourcentage_total": 10.6
+    },
+    "Outillage": {
+      "nombre_produits": 99,
+      "prix_moyen": 321436.36363636365,
+      "prix_min": 1800.0,
+      "prix_max": 2389000.0,
+      "pourcentage_total": 19.9
+    },
+    "Carrelage et revêtements": {
+      "nombre_produits": 37,
+      "prix_moyen": 61018.91891891892,
+      "prix_min": 1200.0,
+      "prix_max": 549900.0,
+      "pourcentage_total": 7.4
+    },
+    "Fer et métallurgie": {
+      "nombre_produits": 12,
+      "prix_moyen": 46950.0,
+      "prix_min": 1400.0,
+      "prix_max": 195000.0,
+      "pourcentage_total": 2.4
+    },
+    "Peinture et enduits": {
+      "nombre_produits": 3,
+      "prix_moyen": 7466.666666666667,
+      "prix_min": 2000.0,
+      "prix_max": 13500.0,
+      "pourcentage_total": 0.6
+    },
+    "Autres matériaux": {
+      "nombre_produits": 218,
+      "prix_moyen": 356395.871559633,
+      "prix_min": 1300.0,
+      "prix_max": 7199000.0,
+      "pourcentage_total": 43.8
+    },
+    "Ciment et béton": {
+      "nombre_produits": 40,
+      "prix_moyen": 52015.0,
+      "prix_min": 1200.0,
+      "prix_max": 519000.0,
+      "pourcentage_total": 8.0
+    },
+    "Menuiserie et bois": {
+      "nombre_produits": 20,
+      "prix_moyen": 141600.0,
+      "prix_min": 6900.0,
+      "prix_max": 719000.0,
+      "pourcentage_total": 4.0
+    },
+    "Électricité": {
+      "nombre_produits": 15,
+      "prix_moyen": 364073.4666666667,
+      "prix_min": 9300.0,
+      "prix_max": 1469000.0,
+      "pourcentage_total": 3.0
+    },
+    "Plomberie": {
+      "nombre_produits": 1,
+      "prix_moyen": 15900.0,
+      "prix_min": 15900.0,
+      "prix_max": 15900.0,
+      "pourcentage_total": 0.2
+    }
+  },
+  "par_page": {
+    "page_1": {
+      "nombre_produits": 70,
+      "prix_moyen": 129918.57142857143
+    },
+    "page_2": {
+      "nombre_produits": 63,
+      "prix_moyen": 381363.49206349207
+    },
+    "page_3": {
+      "nombre_produits": 68,
+      "prix_moyen": 866983.8235294118
+    },
+    "page_4": {
+      "nombre_produits": 69,
+      "prix_moyen": 137282.63768115942
+    },
+    "page_5": {
+      "nombre_produits": 67,
+      "prix_moyen": 136202.98507462686
+    },
+    "page_6": {
+      "nombre_produits": 64,
+      "prix_moyen": 55325.0
+    },
+    "page_7": {
+      "nombre_produits": 65,
+      "prix_moyen": 332463.07692307694
+    },
+    "page_8": {
+      "nombre_produits": 32,
+      "prix_moyen": 73584.375
+    }
+  },
+  "top_produits": {
+    "plus_chers": [
+      {
+        "nom": "Echafaudage S008XLN TELESAFE XLN CAGSAN",
+        "prix_tnd": 7199000.0,
+        "categorie": "Autres matériaux"
+      },
+      {
+        "nom": "Carotteuse à eau 3200W Ø350mm BOSCH GDB 350WE",
+        "prix_tnd": 5850000.0,
+        "categorie": "Autres matériaux"
+      },
+      {
+        "nom": "Echafaudage S008_XL_FP TELESAFE CAGSAN",
+        "prix_tnd": 5699000.0,
+        "categorie": "Autres matériaux"
+      },
+      {
+        "nom": "Echafaudage S006XLN TELESAFE XLN CAGSAN",
+        "prix_tnd": 5199000.0,
+        "categorie": "Autres matériaux"
+      },
+      {
+        "nom": "Echafaudage S005XLN TELESAFE XLN CAGSAN",
+        "prix_tnd": 4999000.0,
+        "categorie": "Autres matériaux"
+      },
+      {
+        "nom": "Echafaudage S006_XL_FP TELESAFE CAGSAN",
+        "prix_tnd": 4299000.0,
+        "categorie": "Autres matériaux"
+      },
+      {
+        "nom": "Support pour carotteuse BOSCH GCR350",
+        "prix_tnd": 4299000.0,
+        "categorie": "Autres matériaux"
+      },
+      {
+        "nom": "Echafaudage S004XLN TELESAFE XLN CAGSAN",
+        "prix_tnd": 4149000.0,
+        "categorie": "Autres matériaux"
+      },
+      {
+        "nom": "Platerforme de travail Industrielle CAGSAN...",
+        "prix_tnd": 4099000.0,
+        "categorie": "Autres matériaux"
+      },
+      {
+        "nom": "Echafaudage S005_XL_FP TELESAFE CAGSAN",
+        "prix_tnd": 4099000.0,
+        "categorie": "Autres matériaux"
+      }
+    ],
+    "moins_chers": [
+      {
+        "nom": "Mèche béton 3x60mm TOLSEN",
+        "prix_tnd": 1200.0,
+        "categorie": "Ciment et béton"
+      },
+      {
+        "nom": "Pack de 100 croisillons 1mm pour carrelage",
+        "prix_tnd": 1200.0,
+        "categorie": "Carrelage et revêtements"
+      },
+      {
+        "nom": "Pack 6 Tire-fonds 6x40 avec chevilles TOROZER",
+        "prix_tnd": 1300.0,
+        "categorie": "Quincaillerie"
+      },
+      {
+        "nom": "Pack 2 Tire-fonds 8x60 TOROZER",
+        "prix_tnd": 1300.0,
+        "categorie": "Autres matériaux"
+      },
+      {
+        "nom": "Pack de 10 rondelles M6x14 en INOX TOROZER",
+        "prix_tnd": 1400.0,
+        "categorie": "Fer et métallurgie"
+      },
+      {
+        "nom": "Pack 4 Tire-fonds 6x60 TOROZER",
+        "prix_tnd": 1400.0,
+        "categorie": "Autres matériaux"
+      },
+      {
+        "nom": "Pack de 20 écrous galvanisés M6 TOROZER",
+        "prix_tnd": 1500.0,
+        "categorie": "Quincaillerie"
+      },
+      {
+        "nom": "Pack de 100 croisillons 2mm pour carrelage",
+        "prix_tnd": 1500.0,
+        "categorie": "Carrelage et revêtements"
+      },
+      {
+        "nom": "Pack 4 Tire-fonds 6x80 TOROZER",
+        "prix_tnd": 1600.0,
+        "categorie": "Autres matériaux"
+      },
+      {
+        "nom": "Ruban de masquage 20Mx3cm",
+        "prix_tnd": 1600.0,
+        "categorie": "Autres matériaux"
+      }
+    ]
+  }
+}

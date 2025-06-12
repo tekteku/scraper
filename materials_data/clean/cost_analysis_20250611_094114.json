@@ -1,0 +1,30 @@
+{
+  "granulats": {
+    "nombre_produits": 7,
+    "prix_moyen_tnd": 27.57,
+    "prix_min_tnd": 24.65,
+    "prix_max_tnd": 30.44,
+    "ecart_type": 2.66
+  },
+  "gros_oeuvre": {
+    "nombre_produits": 15,
+    "prix_moyen_tnd": 5.16,
+    "prix_min_tnd": 0.81,
+    "prix_max_tnd": 20.67,
+    "ecart_type": 6.94
+  },
+  "isolation": {
+    "nombre_produits": 8,
+    "prix_moyen_tnd": 15.97,
+    "prix_min_tnd": 9.11,
+    "prix_max_tnd": 23.93,
+    "ecart_type": 6.47
+  },
+  "revêtement": {
+    "nombre_produits": 6,
+    "prix_moyen_tnd": 40.55,
+    "prix_min_tnd": 22.32,
+    "prix_max_tnd": 56.31,
+    "ecart_type": 13.65
+  }
+}

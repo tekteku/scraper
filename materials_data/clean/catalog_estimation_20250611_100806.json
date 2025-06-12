@@ -1,0 +1,496 @@
+{
+  "Quincaillerie": {
+    "nombre_options": 53,
+    "fourchette_prix": {
+      "min": 1300.0,
+      "max": 3999000.0,
+      "moyen": 291116.9811320755
+    },
+    "produits_recommandés": {
+      "économique": {
+        "nom": "Pack 6 Tire-fonds 6x40 avec chevilles TOROZER",
+        "prix_tnd": 1300.0,
+        "prix_original": "1,300DT",
+        "unite": "pack",
+        "categorie": "Quincaillerie",
+        "description": NaN,
+        "url_produit": "https://brico-direct.tn/visserie-et-assemblage/12698-pack-6-tire-fonds-6x40-torozer-6195550126981.html",
+        "source": "brico-direct.tn",
+        "page": 4,
+        "url_source": "https://brico-direct.tn/218-construction?p=4",
+        "date_extraction": "2025-06-11T09:58:31.566660",
+        "gamme_prix": "1000-5000 TND"
+      },
+      "moyen_gamme": {
+        "nom": "Pack 22 Tire-fonds avec chevilles TOROZER",
+        "prix_tnd": 8900.0,
+        "prix_original": "8,900DT",
+        "unite": "pack",
+        "categorie": "Quincaillerie",
+        "description": NaN,
+        "url_produit": "https://brico-direct.tn/visserie-et-assemblage/9491-pack-22-tire-fonds-avec-chevilles-torozer-6195550094914.html",
+        "source": "brico-direct.tn",
+        "page": 5,
+        "url_source": "https://brico-direct.tn/218-construction?p=5",
+        "date_extraction": "2025-06-11T09:58:39.014067",
+        "gamme_prix": "5000+ TND"
+      },
+      "haut_gamme": {
+        "nom": "Platerforme de travail roulante VISTA 3.0m...",
+        "prix_tnd": 3999000.0,
+        "prix_original": "3 999,000DT",
+        "unite": "pièce",
+        "categorie": "Quincaillerie",
+        "description": NaN,
+        "url_produit": "https://brico-direct.tn/echelles-et-escabeaux/13466-platerforme-de-travail-roulante-vista-30m-cagsan.html",
+        "source": "brico-direct.tn",
+        "page": 2,
+        "url_source": "https://brico-direct.tn/218-construction?p=2",
+        "date_extraction": "2025-06-11T09:58:19.483624",
+        "gamme_prix": "5000+ TND"
+      }
+    }
+  },
+  "Outillage": {
+    "nombre_options": 99,
+    "fourchette_prix": {
+      "min": 1800.0,
+      "max": 2389000.0,
+      "moyen": 321436.36363636365
+    },
+    "produits_recommandés": {
+      "économique": {
+        "nom": "Lame de scie à métaux 300mm VIKING",
+        "prix_tnd": 1800.0,
+        "prix_original": "1,800DT",
+        "unite": "pièce",
+        "categorie": "Outillage",
+        "description": NaN,
+        "url_produit": "https://brico-direct.tn/outils-de-coupe/6922-lame-de-scie-a-metaux-300mm-viking-5701604221246.html",
+        "source": "brico-direct.tn",
+        "page": 7,
+        "url_source": "https://brico-direct.tn/218-construction?p=7",
+        "date_extraction": "2025-06-11T09:58:51.266163",
+        "gamme_prix": "1000-5000 TND"
+      },
+      "moyen_gamme": {
+        "nom": "Burin pointu SDS-MAX 18x600 DIAGER",
+        "prix_tnd": 49900.0,
+        "prix_original": "49,900DT",
+        "unite": "pièce",
+        "categorie": "Outillage",
+        "description": "Pour marteaux perforateurs SDS MAX",
+        "url_produit": "https://brico-direct.tn/burins/4329-pic-beton-sds-max-18x600-diager-3336600063495.html",
+        "source": "brico-direct.tn",
+        "page": 6,
+        "url_source": "https://brico-direct.tn/218-construction?p=6",
+        "date_extraction": "2025-06-11T09:58:45.463185",
+        "gamme_prix": "5000+ TND"
+      },
+      "haut_gamme": {
+        "nom": "Marteau perforateur 1150W BOSCH GBH 5-40 DCE",
+        "prix_tnd": 2389000.0,
+        "prix_original": "2 389,000DT",
+        "unite": "pièce",
+        "categorie": "Outillage",
+        "description": "La puissance du SDS-Max !!",
+        "url_produit": "https://brico-direct.tn/marteaux/7834-marteau-perforateur-1150w-bosch-gbh-5-40dce-3165140461214.html",
+        "source": "brico-direct.tn",
+        "page": 3,
+        "url_source": "https://brico-direct.tn/218-construction?p=3",
+        "date_extraction": "2025-06-11T09:58:24.478438",
+        "gamme_prix": "5000+ TND"
+      }
+    }
+  },
+  "Carrelage et revêtements": {
+    "nombre_options": 37,
+    "fourchette_prix": {
+      "min": 1200.0,
+      "max": 549900.0,
+      "moyen": 61018.91891891892
+    },
+    "produits_recommandés": {
+      "économique": {
+        "nom": "Pack de 100 croisillons 1mm pour carrelage",
+        "prix_tnd": 1200.0,
+        "prix_original": "1,200DT",
+        "unite": "pack",
+        "categorie": "Carrelage et revêtements",
+        "description": "Pour une pose de carrelage PARFAITE !",
+        "url_produit": "https://brico-direct.tn/autres-outillages-manuels/7030-pack-de-100-croisillons-1mm-pour-carrelage-6195550070307.html",
+        "source": "brico-direct.tn",
+        "page": 8,
+        "url_source": "https://brico-direct.tn/218-construction?p=8",
+        "date_extraction": "2025-06-11T09:58:57.205600",
+        "gamme_prix": "1000-5000 TND"
+      },
+      "moyen_gamme": {
+        "nom": "Disque diamant Turbo 125mm WARRIOR TORNADO",
+        "prix_tnd": 22500.0,
+        "prix_original": "22,500DT",
+        "unite": "pièce",
+        "categorie": "Carrelage et revêtements",
+        "description": "Pour faïences, gypse, tuiles, etc..",
+        "url_produit": "https://brico-direct.tn/accessoires-pour-meuleuses/13056-disque-diamant-turbo-125mm-warrior-tornado-6195550130568.html",
+        "source": "brico-direct.tn",
+        "page": 4,
+        "url_source": "https://brico-direct.tn/218-construction?p=4",
+        "date_extraction": "2025-06-11T09:58:31.572660",
+        "gamme_prix": "5000+ TND"
+      },
+      "haut_gamme": {
+        "nom": "Rainureuse 1500W CROWN",
+        "prix_tnd": 549900.0,
+        "prix_original": "549,900DT",
+        "unite": "pièce",
+        "categorie": "Carrelage et revêtements",
+        "description": "Permet de percer des saignées dans les murs",
+        "url_produit": "https://brico-direct.tn/scies/10369-rainureuse-1500w-crown-7640177425164.html",
+        "source": "brico-direct.tn",
+        "page": 5,
+        "url_source": "https://brico-direct.tn/218-construction?p=5",
+        "date_extraction": "2025-06-11T09:58:38.976256",
+        "gamme_prix": "5000+ TND"
+      }
+    }
+  },
+  "Fer et métallurgie": {
+    "nombre_options": 12,
+    "fourchette_prix": {
+      "min": 1400.0,
+      "max": 195000.0,
+      "moyen": 46950.0
+    },
+    "produits_recommandés": {
+      "économique": {
+        "nom": "Pack de 10 rondelles M6x14 en INOX TOROZER",
+        "prix_tnd": 1400.0,
+        "prix_original": "1,400DT",
+        "unite": "pack",
+        "categorie": "Fer et métallurgie",
+        "description": NaN,
+        "url_produit": "https://brico-direct.tn/visserie-et-assemblage/12730-pack-de-10-rondelles-m6x14-en-inox-torozer-6195550127308.html",
+        "source": "brico-direct.tn",
+        "page": 2,
+        "url_source": "https://brico-direct.tn/218-construction?p=2",
+        "date_extraction": "2025-06-11T09:58:19.411672",
+        "gamme_prix": "1000-5000 TND"
+      },
+      "moyen_gamme": {
+        "nom": "Pistolet à mastic en Aluminium",
+        "prix_tnd": 19900.0,
+        "prix_original": "19,900DT",
+        "unite": "pièce",
+        "categorie": "Fer et métallurgie",
+        "description": "Pour cartouches de silicone, PU, Colle, etc.",
+        "url_produit": "https://brico-direct.tn/autres-outillages-manuels/13197-pistolet-a-mastic-en-aluminium-6195550131978.html",
+        "source": "brico-direct.tn",
+        "page": 1,
+        "url_source": "https://brico-direct.tn/218-construction",
+        "date_extraction": "2025-06-11T09:58:12.463507",
+        "gamme_prix": "5000+ TND"
+      },
+      "haut_gamme": {
+        "nom": "Escabeau aluminium 6 marches FERRAL",
+        "prix_tnd": 195000.0,
+        "prix_original": "195,000DT",
+        "unite": "pièce",
+        "categorie": "Fer et métallurgie",
+        "description": "En Aluminium",
+        "url_produit": "https://brico-direct.tn/echelles-et-escabeaux/12187-escabeau-aluminium-6-marches-ferral-5604620010361.html",
+        "source": "brico-direct.tn",
+        "page": 3,
+        "url_source": "https://brico-direct.tn/218-construction?p=3",
+        "date_extraction": "2025-06-11T09:58:24.421912",
+        "gamme_prix": "5000+ TND"
+      }
+    }
+  },
+  "Peinture et enduits": {
+    "nombre_options": 3,
+    "fourchette_prix": {
+      "min": 2000.0,
+      "max": 13500.0,
+      "moyen": 7466.666666666667
+    },
+    "produits_recommandés": {
+      "économique": {
+        "nom": "Rouleau anti-goutte de rechange en...",
+        "prix_tnd": 2000.0,
+        "prix_original": "2,000DT",
+        "unite": "l",
+        "categorie": "Peinture et enduits",
+        "description": "Idéal pour l'extérieur",
+        "url_produit": "https://brico-direct.tn/outils-pour-la-peinture/7800-rouleau-anti-goutte-de-rechange-en-polyester-et-acrylique-100mm-tolsen-6933528740308.html",
+        "source": "brico-direct.tn",
+        "page": 7,
+        "url_source": "https://brico-direct.tn/218-construction?p=7",
+        "date_extraction": "2025-06-11T09:58:51.268160",
+        "gamme_prix": "1000-5000 TND"
+      },
+      "moyen_gamme": {
+        "nom": "Pinceau Brosse de plafond 170mm SGS",
+        "prix_tnd": 6900.0,
+        "prix_original": "6,900DT",
+        "unite": "pièce",
+        "categorie": "Peinture et enduits",
+        "description": NaN,
+        "url_produit": "https://brico-direct.tn/outils-pour-la-peinture/13171-pinceau-brosse-de-plafond-170mm-sgs-8698619141607.html",
+        "source": "brico-direct.tn",
+        "page": 1,
+        "url_source": "https://brico-direct.tn/218-construction",
+        "date_extraction": "2025-06-11T09:58:12.465666",
+        "gamme_prix": "5000+ TND"
+      },
+      "haut_gamme": {
+        "nom": "Rouleau de peinture en nid d'abeille 230mm...",
+        "prix_tnd": 13500.0,
+        "prix_original": "13,500DT",
+        "unite": "rouleau",
+        "categorie": "Peinture et enduits",
+        "description": NaN,
+        "url_produit": "https://brico-direct.tn/outils-pour-la-peinture/13400-rouleau-de-peinture-en-nid-d-abeille-230mm-wadfow-6942123004081.html",
+        "source": "brico-direct.tn",
+        "page": 2,
+        "url_source": "https://brico-direct.tn/218-construction?p=2",
+        "date_extraction": "2025-06-11T09:58:19.429110",
+        "gamme_prix": "5000+ TND"
+      }
+    }
+  },
+  "Autres matériaux": {
+    "nombre_options": 218,
+    "fourchette_prix": {
+      "min": 1300.0,
+      "max": 7199000.0,
+      "moyen": 356395.871559633
+    },
+    "produits_recommandés": {
+      "économique": {
+        "nom": "Pack 2 Tire-fonds 8x60 TOROZER",
+        "prix_tnd": 1300.0,
+        "prix_original": "1,300DT",
+        "unite": "pack",
+        "categorie": "Autres matériaux",
+        "description": NaN,
+        "url_produit": "https://brico-direct.tn/visserie-et-assemblage/12812-pack-2-tire-fonds-8x60-torozer-6195550128121.html",
+        "source": "brico-direct.tn",
+        "page": 4,
+        "url_source": "https://brico-direct.tn/218-construction?p=4",
+        "date_extraction": "2025-06-11T09:58:31.607684",
+        "gamme_prix": "1000-5000 TND"
+      },
+      "moyen_gamme": {
+        "nom": "WD-40 Graisse haute performance en cartouche",
+        "prix_tnd": 39900.0,
+        "prix_original": "39,900DT",
+        "unite": "pièce",
+        "categorie": "Autres matériaux",
+        "description": "Graisse de grade NLGI #2",
+        "url_produit": "https://brico-direct.tn/lubrifiants/12525-wd-40-graisse-haute-performance-en-cartouche-5032227006447.html",
+        "source": "brico-direct.tn",
+        "page": 2,
+        "url_source": "https://brico-direct.tn/218-construction?p=2",
+        "date_extraction": "2025-06-11T09:58:19.419106",
+        "gamme_prix": "5000+ TND"
+      },
+      "haut_gamme": {
+        "nom": "Echafaudage S008XLN TELESAFE XLN CAGSAN",
+        "prix_tnd": 7199000.0,
+        "prix_original": "7 199,000DT",
+        "unite": "pièce",
+        "categorie": "Autres matériaux",
+        "description": "Certifié EN 1004-1:2020",
+        "url_produit": "https://brico-direct.tn/echelles-et-escabeaux/13070-echafaudage-s008xln-telesafe-xln-cagsan.html",
+        "source": "brico-direct.tn",
+        "page": 3,
+        "url_source": "https://brico-direct.tn/218-construction?p=3",
+        "date_extraction": "2025-06-11T09:58:24.417922",
+        "gamme_prix": "5000+ TND"
+      }
+    }
+  },
+  "Ciment et béton": {
+    "nombre_options": 40,
+    "fourchette_prix": {
+      "min": 1200.0,
+      "max": 519000.0,
+      "moyen": 52015.0
+    },
+    "produits_recommandés": {
+      "économique": {
+        "nom": "Mèche béton 3x60mm TOLSEN",
+        "prix_tnd": 1200.0,
+        "prix_original": "1,200DT",
+        "unite": "pièce",
+        "categorie": "Ciment et béton",
+        "description": NaN,
+        "url_produit": "https://brico-direct.tn/percage-des-materiaux-de-construction/8701-meche-beton-3x60mm-tolsen-6933528777502.html",
+        "source": "brico-direct.tn",
+        "page": 6,
+        "url_source": "https://brico-direct.tn/218-construction?p=6",
+        "date_extraction": "2025-06-11T09:58:45.424182",
+        "gamme_prix": "1000-5000 TND"
+      },
+      "moyen_gamme": {
+        "nom": "Mèche béton 16mm au carbure DIAGER FLASH",
+        "prix_tnd": 14500.0,
+        "prix_original": "14,500DT",
+        "unite": "pièce",
+        "categorie": "Ciment et béton",
+        "description": NaN,
+        "url_produit": "https://brico-direct.tn/percage-des-materiaux-de-construction/4211-meche-beton-16mm-au-carbure-diager-flash-3336600064683.html",
+        "source": "brico-direct.tn",
+        "page": 6,
+        "url_source": "https://brico-direct.tn/218-construction?p=6",
+        "date_extraction": "2025-06-11T09:58:45.459139",
+        "gamme_prix": "5000+ TND"
+      },
+      "haut_gamme": {
+        "nom": "Disque diamant segmenté pour Béton 400mm...",
+        "prix_tnd": 519000.0,
+        "prix_original": "519,000DT",
+        "unite": "pièce",
+        "categorie": "Ciment et béton",
+        "description": "La qualité BOSCH !!",
+        "url_produit": "https://brico-direct.tn/disques-circulaires/9145-disque-diamant-segmente-pour-beton-400mm-bosch.html",
+        "source": "brico-direct.tn",
+        "page": 5,
+        "url_source": "https://brico-direct.tn/218-construction?p=5",
+        "date_extraction": "2025-06-11T09:58:39.037060",
+        "gamme_prix": "5000+ TND"
+      }
+    }
+  },
+  "Menuiserie et bois": {
+    "nombre_options": 20,
+    "fourchette_prix": {
+      "min": 6900.0,
+      "max": 719000.0,
+      "moyen": 141600.0
+    },
+    "produits_recommandés": {
+      "économique": {
+        "nom": "Mastic de Silicone Gris 280ml SONOSIL",
+        "prix_tnd": 6900.0,
+        "prix_original": "6,900DT",
+        "unite": "l",
+        "categorie": "Menuiserie et bois",
+        "description": "Pour l'étanchéité des Cuisine/Fenêtres",
+        "url_produit": "https://brico-direct.tn/mastics/12873-mastic-de-silicone-gris-280ml-sonosil-6195550128732.html",
+        "source": "brico-direct.tn",
+        "page": 2,
+        "url_source": "https://brico-direct.tn/218-construction?p=2",
+        "date_extraction": "2025-06-11T09:58:19.473613",
+        "gamme_prix": "5000+ TND"
+      },
+      "moyen_gamme": {
+        "nom": "Porte-outils en cuir VALEX",
+        "prix_tnd": 66900.0,
+        "prix_original": "66,900DT",
+        "unite": "pièce",
+        "categorie": "Menuiserie et bois",
+        "description": "En cuir",
+        "url_produit": "https://brico-direct.tn/rangement/3136-porte-outils-en-cuir-valex-8004878574856.html",
+        "source": "brico-direct.tn",
+        "page": 7,
+        "url_source": "https://brico-direct.tn/218-construction?p=7",
+        "date_extraction": "2025-06-11T09:58:51.225093",
+        "gamme_prix": "5000+ TND"
+      },
+      "haut_gamme": {
+        "nom": "Inclinomètre Digital BOSCH GIM60L",
+        "prix_tnd": 719000.0,
+        "prix_original": "719,000DT",
+        "unite": "pièce",
+        "categorie": "Menuiserie et bois",
+        "description": "Reporte les surfaces inclinées sur de longues distances",
+        "url_produit": "https://brico-direct.tn/outils-de-mesure/6107-inclinometre-digital-bosch-gim60l-3165140803243.html",
+        "source": "brico-direct.tn",
+        "page": 7,
+        "url_source": "https://brico-direct.tn/218-construction?p=7",
+        "date_extraction": "2025-06-11T09:58:51.210048",
+        "gamme_prix": "5000+ TND"
+      }
+    }
+  },
+  "Électricité": {
+    "nombre_options": 15,
+    "fourchette_prix": {
+      "min": 9300.0,
+      "max": 1469000.0,
+      "moyen": 364073.4666666667
+    },
+    "produits_recommandés": {
+      "économique": {
+        "nom": "Filtre de rechange pour masque de...",
+        "prix_tnd": 9300.0,
+        "prix_original": "9,300DT",
+        "unite": "pièce",
+        "categorie": "Électricité",
+        "description": NaN,
+        "url_produit": "https://brico-direct.tn/protection-du-bricoleur/8827-filtre-de-rechange-pour-masque-de-respiration-climax-755-6195550088272.html",
+        "source": "brico-direct.tn",
+        "page": 5,
+        "url_source": "https://brico-direct.tn/218-construction?p=5",
+        "date_extraction": "2025-06-11T09:58:39.007058",
+        "gamme_prix": "5000+ TND"
+      },
+      "moyen_gamme": {
+        "nom": "Tournevis sans fil USB avec 40 embouts EMTOP",
+        "prix_tnd": 99000.0,
+        "prix_original": "99,000DT",
+        "unite": "pièce",
+        "categorie": "Électricité",
+        "description": "Simple et économique !!",
+        "url_produit": "https://brico-direct.tn/visseuses/12945-tournevis-sans-fil-usb-avec-40-embouts-emtop-6941556244545.html",
+        "source": "brico-direct.tn",
+        "page": 7,
+        "url_source": "https://brico-direct.tn/218-construction?p=7",
+        "date_extraction": "2025-06-11T09:58:51.240353",
+        "gamme_prix": "5000+ TND"
+      },
+      "haut_gamme": {
+        "nom": "Malaxeur électrique GRW 12 E Professional...",
+        "prix_tnd": 1469000.0,
+        "prix_original": "1 469,000DT",
+        "unite": "pièce",
+        "categorie": "Électricité",
+        "description": "La qualité BOSCH !!",
+        "url_produit": "https://brico-direct.tn/autres-electroportatifs/6680-malaxeur-electrique-grw-12-e-professional-1200w-bosch.html",
+        "source": "brico-direct.tn",
+        "page": 7,
+        "url_source": "https://brico-direct.tn/218-construction?p=7",
+        "date_extraction": "2025-06-11T09:58:51.219315",
+        "gamme_prix": "5000+ TND"
+      }
+    }
+  },
+  "Plomberie": {
+    "nombre_options": 1,
+    "fourchette_prix": {
+      "min": 15900.0,
+      "max": 15900.0,
+      "moyen": 15900.0
+    },
+    "produits_recommandés": {
+      "économique": {
+        "nom": "Paire de gants en PVC 35cm",
+        "prix_tnd": 15900.0,
+        "prix_original": "15,900DT",
+        "unite": "pièce",
+        "categorie": "Plomberie",
+        "description": "Protection totale",
+        "url_produit": "https://brico-direct.tn/protection-du-bricoleur/9943-paire-de-gants-en-pvc-35cm-6195550099438.html",
+        "source": "brico-direct.tn",
+        "page": 7,
+        "url_source": "https://brico-direct.tn/218-construction?p=7",
+        "date_extraction": "2025-06-11T09:58:51.228207",
+        "gamme_prix": "5000+ TND"
+      },
+      "moyen_gamme": null,
+      "haut_gamme": null
+    }
+  }
+}

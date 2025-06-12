@@ -1,0 +1,74 @@
+{
+  "maison_100m2": {
+    "description": "Maison individuelle 100m²",
+    "cout_total_tnd": 11609.33,
+    "detail_materiaux": {
+      "Ciment": {
+        "prix_unitaire": 18.39,
+        "quantite": 50,
+        "unite": "sacs",
+        "cout_total": 919.67
+      },
+      "Fer à béton": {
+        "prix_unitaire": 3.08,
+        "quantite": 2000,
+        "unite": "kg",
+        "cout_total": 6170.0
+      },
+      "Parpaing": {
+        "prix_unitaire": 1.48,
+        "quantite": 800,
+        "unite": "pièces",
+        "cout_total": 1186.0
+      },
+      "Carrelage": {
+        "prix_unitaire": 29.18,
+        "quantite": 100,
+        "unite": "m²",
+        "cout_total": 2918.33
+      },
+      "Peinture": {
+        "prix_unitaire": 51.92,
+        "quantite": 8,
+        "unite": "bidons",
+        "cout_total": 415.33
+      }
+    }
+  },
+  "villa_200m2": {
+    "description": "Villa 200m²",
+    "cout_total_tnd": 23018.5,
+    "detail_materiaux": {
+      "Ciment": {
+        "prix_unitaire": 18.39,
+        "quantite": 100,
+        "unite": "sacs",
+        "cout_total": 1839.33
+      },
+      "Fer à béton": {
+        "prix_unitaire": 3.08,
+        "quantite": 4000,
+        "unite": "kg",
+        "cout_total": 12340.0
+      },
+      "Parpaing": {
+        "prix_unitaire": 1.48,
+        "quantite": 1500,
+        "unite": "pièces",
+        "cout_total": 2223.75
+      },
+      "Carrelage": {
+        "prix_unitaire": 29.18,
+        "quantite": 200,
+        "unite": "m²",
+        "cout_total": 5836.67
+      },
+      "Peinture": {
+        "prix_unitaire": 51.92,
+        "quantite": 15,
+        "unite": "bidons",
+        "cout_total": 778.75
+      }
+    }
+  }
+}

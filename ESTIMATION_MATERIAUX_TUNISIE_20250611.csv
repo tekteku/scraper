@@ -1,0 +1,11 @@
+Matériau,Type_Détaillé,Prix_Unitaire_TND,Unité,Meilleur_Fournisseur,Disponibilité,Prix_Moyen_TND,Prix_Max_TND,Économie_TND,Économie_Pourcentage,Nombre_Fournisseurs,Usage,Catégorie
+Brique,Brique - Brique rouge 6 trous,0.81,pièce,Fournisseur A,Sur commande,0.98,1.15,0.34,29.6,4,"Maçonnerie, cloisons",gros_oeuvre
+Carrelage,Carrelage - Carrelage céramique 30x30,22.32,m²,Fournisseur A,Stock limité,29.18,33.25,10.93,32.9,3,Revêtement sol/mur,revêtement
+Ciment,Ciment - Ciment Portland CEM II 42.5,16.75,sac 50kg,Fournisseur A,En stock,18.39,20.67,3.92,19.0,3,"Construction générale, béton",gros_oeuvre
+Fer à béton,Fer à béton - Fer rond lisse/nervuré,2.95,kg,Marché Local,Stock limité,3.08,3.21,0.26,8.1,4,Armature béton armé,gros_oeuvre
+Gravier,Gravier - Gravier 8/16,27.68,m³,Fournisseur A,Sur commande,29.36,30.44,2.76,9.1,3,"Béton, drainage",granulats
+Isolant,Isolant - Laine de verre 100mm,19.38,m²,Fournisseur C,En stock,21.86,23.93,4.55,19.0,4,Isolation thermique,isolation
+Parpaing,Parpaing - Parpaing 20x20x40,1.39,pièce,Fournisseur B,Stock limité,1.48,1.74,0.35,20.1,4,"Maçonnerie, murs",gros_oeuvre
+Peinture,Peinture - Peinture acrylique intérieur,44.41,bidon 25L,Fournisseur B,Sur commande,51.92,56.31,11.9,21.1,3,Peinture intérieure,revêtement
+Placo,Placo - Plaque de plâtre BA13,9.11,m²,Fournisseur C,Stock limité,10.09,11.63,2.52,21.7,4,"Cloisons, doublage",isolation
+Sable,Sable - Sable de rivière,24.65,m³,Fournisseur B,En stock,26.23,30.22,5.57,18.4,4,"Mortier, béton",granulats

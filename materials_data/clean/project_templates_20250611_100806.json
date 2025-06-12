@@ -1,0 +1,223 @@
+{
+  "Maison_100m2": {
+    "description": "Estimation pour maison individuelle de 100m²",
+    "matériaux": [
+      {
+        "catégorie": "Ciment et béton",
+        "quantité_estimée": 50,
+        "unité": "sacs"
+      },
+      {
+        "catégorie": "Fer et métallurgie",
+        "quantité_estimée": 2000,
+        "unité": "kg"
+      },
+      {
+        "catégorie": "Carrelage et revêtements",
+        "quantité_estimée": 100,
+        "unité": "m²"
+      },
+      {
+        "catégorie": "Peinture et enduits",
+        "quantité_estimée": 200,
+        "unité": "litres"
+      },
+      {
+        "catégorie": "Outillage",
+        "quantité_estimée": 1,
+        "unité": "lot"
+      },
+      {
+        "catégorie": "Quincaillerie",
+        "quantité_estimée": 1,
+        "unité": "lot"
+      }
+    ],
+    "coût_total_estimé": 104708528.57,
+    "détail_coûts": [
+      {
+        "catégorie": "Ciment et béton",
+        "quantité": 50,
+        "unité": "sacs",
+        "prix_unitaire_moyen": 52015.0,
+        "coût_total": 2600750.0
+      },
+      {
+        "catégorie": "Fer et métallurgie",
+        "quantité": 2000,
+        "unité": "kg",
+        "prix_unitaire_moyen": 46950.0,
+        "coût_total": 93900000.0
+      },
+      {
+        "catégorie": "Carrelage et revêtements",
+        "quantité": 100,
+        "unité": "m²",
+        "prix_unitaire_moyen": 61018.92,
+        "coût_total": 6101891.89
+      },
+      {
+        "catégorie": "Peinture et enduits",
+        "quantité": 200,
+        "unité": "litres",
+        "prix_unitaire_moyen": 7466.67,
+        "coût_total": 1493333.33
+      },
+      {
+        "catégorie": "Outillage",
+        "quantité": 1,
+        "unité": "lot",
+        "prix_unitaire_moyen": 321436.36,
+        "coût_total": 321436.36
+      },
+      {
+        "catégorie": "Quincaillerie",
+        "quantité": 1,
+        "unité": "lot",
+        "prix_unitaire_moyen": 291116.98,
+        "coût_total": 291116.98
+      }
+    ]
+  },
+  "Villa_200m2": {
+    "description": "Estimation pour villa de 200m²",
+    "matériaux": [
+      {
+        "catégorie": "Ciment et béton",
+        "quantité_estimée": 100,
+        "unité": "sacs"
+      },
+      {
+        "catégorie": "Fer et métallurgie",
+        "quantité_estimée": 4000,
+        "unité": "kg"
+      },
+      {
+        "catégorie": "Carrelage et revêtements",
+        "quantité_estimée": 200,
+        "unité": "m²"
+      },
+      {
+        "catégorie": "Peinture et enduits",
+        "quantité_estimée": 400,
+        "unité": "litres"
+      },
+      {
+        "catégorie": "Outillage",
+        "quantité_estimée": 1,
+        "unité": "lot"
+      },
+      {
+        "catégorie": "Quincaillerie",
+        "quantité_estimée": 2,
+        "unité": "lots"
+      }
+    ],
+    "coût_total_estimé": 209095620.78,
+    "détail_coûts": [
+      {
+        "catégorie": "Ciment et béton",
+        "quantité": 100,
+        "unité": "sacs",
+        "prix_unitaire_moyen": 52015.0,
+        "coût_total": 5201500.0
+      },
+      {
+        "catégorie": "Fer et métallurgie",
+        "quantité": 4000,
+        "unité": "kg",
+        "prix_unitaire_moyen": 46950.0,
+        "coût_total": 187800000.0
+      },
+      {
+        "catégorie": "Carrelage et revêtements",
+        "quantité": 200,
+        "unité": "m²",
+        "prix_unitaire_moyen": 61018.92,
+        "coût_total": 12203783.78
+      },
+      {
+        "catégorie": "Peinture et enduits",
+        "quantité": 400,
+        "unité": "litres",
+        "prix_unitaire_moyen": 7466.67,
+        "coût_total": 2986666.67
+      },
+      {
+        "catégorie": "Outillage",
+        "quantité": 1,
+        "unité": "lot",
+        "prix_unitaire_moyen": 321436.36,
+        "coût_total": 321436.36
+      },
+      {
+        "catégorie": "Quincaillerie",
+        "quantité": 2,
+        "unité": "lots",
+        "prix_unitaire_moyen": 291116.98,
+        "coût_total": 582233.96
+      }
+    ]
+  },
+  "Rénovation_Appartement": {
+    "description": "Estimation pour rénovation appartement 80m²",
+    "matériaux": [
+      {
+        "catégorie": "Carrelage et revêtements",
+        "quantité_estimée": 80,
+        "unité": "m²"
+      },
+      {
+        "catégorie": "Peinture et enduits",
+        "quantité_estimée": 150,
+        "unité": "litres"
+      },
+      {
+        "catégorie": "Isolation",
+        "quantité_estimée": 100,
+        "unité": "m²"
+      },
+      {
+        "catégorie": "Outillage",
+        "quantité_estimée": 1,
+        "unité": "lot"
+      },
+      {
+        "catégorie": "Quincaillerie",
+        "quantité_estimée": 1,
+        "unité": "lot"
+      }
+    ],
+    "coût_total_estimé": 6614066.86,
+    "détail_coûts": [
+      {
+        "catégorie": "Carrelage et revêtements",
+        "quantité": 80,
+        "unité": "m²",
+        "prix_unitaire_moyen": 61018.92,
+        "coût_total": 4881513.51
+      },
+      {
+        "catégorie": "Peinture et enduits",
+        "quantité": 150,
+        "unité": "litres",
+        "prix_unitaire_moyen": 7466.67,
+        "coût_total": 1120000.0
+      },
+      {
+        "catégorie": "Outillage",
+        "quantité": 1,
+        "unité": "lot",
+        "prix_unitaire_moyen": 321436.36,
+        "coût_total": 321436.36
+      },
+      {
+        "catégorie": "Quincaillerie",
+        "quantité": 1,
+        "unité": "lot",
+        "prix_unitaire_moyen": 291116.98,
+        "coût_total": 291116.98
+      }
+    ]
+  }
+}

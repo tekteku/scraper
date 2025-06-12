@@ -1,0 +1,14 @@
+{
+  "date_extraction": "2025-06-11T10:00:14.907698",
+  "total_produits": 1,
+  "produits_avec_prix": 1,
+  "prix_moyen": 10.0,
+  "prix_min": 10.0,
+  "prix_max": 10.0,
+  "categories": {
+    "Test": 1
+  },
+  "repartition_pages": {
+    "1": 1
+  }
+}
