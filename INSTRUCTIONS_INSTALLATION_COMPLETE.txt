@@ -1,0 +1,312 @@
+===============================================================================
+🏗️ INSTRUCTIONS D'INSTALLATION COMPLÈTE 
+   SYSTÈME D'ESTIMATION MATÉRIAUX TUNISIENS
+===============================================================================
+
+📅 Date: 12 Juin 2025
+🎯 Pour: Installation sur nouveau laptop/ordinateur
+🌍 Marché: Tunisie - Construction & Immobilier
+📊 Données: 525+ matériaux + 6,036+ propriétés
+
+===============================================================================
+📋 PRÉREQUIS SYSTÈME
+===============================================================================
+
+✅ SYSTÈME D'EXPLOITATION:
+   - Windows 10/11 (recommandé)
+   - macOS 10.15+ 
+   - Linux Ubuntu 20.04+
+
+✅ LOGICIELS REQUIS:
+   - Python 3.12 ou plus récent
+   - Git
+   - Node.js 16+ (pour Playwright)
+   - 8GB RAM minimum (recommandé: 16GB)
+   - 2GB espace disque libre
+
+===============================================================================
+🚀 ÉTAPE 1: INSTALLATION DES PRÉREQUIS
+===============================================================================
+
+▶️ 1.1 INSTALLER PYTHON 3.12+
+   Windows:
+   - Télécharger depuis: https://www.python.org/downloads/
+   - ⚠️ IMPORTANT: Cocher "Add Python to PATH" pendant l'installation
+   
+   macOS:
+   - brew install python@3.12
+   
+   Linux:
+   - sudo apt update
+   - sudo apt install python3.12 python3.12-pip
+
+▶️ 1.2 INSTALLER GIT
+   Windows:
+   - Télécharger depuis: https://git-scm.com/download/win
+   
+   macOS:
+   - brew install git
+   
+   Linux:
+   - sudo apt install git
+
+▶️ 1.3 INSTALLER NODE.JS
+   Tous systèmes:
+   - Télécharger depuis: https://nodejs.org/
+   - Choisir version LTS (Long Term Support)
+
+▶️ 1.4 VÉRIFIER LES INSTALLATIONS
+   Ouvrir un terminal/invite de commandes et taper:
+   
+   python --version
+   # Doit afficher: Python 3.12.x ou plus
+   
+   git --version
+   # Doit afficher: git version x.x.x
+   
+   node --version
+   # Doit afficher: v16.x.x ou plus
+
+===============================================================================
+🔄 ÉTAPE 2: TÉLÉCHARGEMENT DU PROJET
+===============================================================================
+
+▶️ 2.1 CLONER LE REPOSITORY GITHUB
+   Ouvrir terminal/invite de commandes:
+   
+   cd C:\
+   git clone https://github.com/tekteku/scraper.git
+   cd scraper
+
+▶️ 2.2 VÉRIFIER LE TÉLÉCHARGEMENT
+   Vous devez voir ces fichiers principaux:
+   - README.md
+   - requirements.txt
+   - llm_api_server.py
+   - materials_dashboard.py
+   - DONNEES_JSON_ORGANISEES/ (dossier)
+
+===============================================================================
+⚙️ ÉTAPE 3: INSTALLATION DES DÉPENDANCES PYTHON
+===============================================================================
+
+▶️ 3.1 CRÉER UN ENVIRONNEMENT VIRTUEL (RECOMMANDÉ)
+   Windows:
+   python -m venv venv
+   venv\Scripts\activate
+   
+   macOS/Linux:
+   python3 -m venv venv
+   source venv/bin/activate
+
+▶️ 3.2 INSTALLER LES DÉPENDANCES
+   pip install --upgrade pip
+   pip install -r requirements.txt
+
+▶️ 3.3 INSTALLER PLAYWRIGHT BROWSERS
+   playwright install
+
+▶️ 3.4 VÉRIFIER L'INSTALLATION
+   python -c "import fastapi, streamlit, pandas, playwright; print('✅ Toutes les dépendances installées!')"
+
+===============================================================================
+🌐 ÉTAPE 4: CONFIGURATION ET PREMIER LANCEMENT
+===============================================================================
+
+▶️ 4.1 LANCER L'API ML/LLM (Terminal 1)
+   python llm_api_server.py
+   
+   ✅ Succès si vous voyez:
+   "Uvicorn running on http://127.0.0.1:8000"
+
+▶️ 4.2 LANCER LE DASHBOARD (Terminal 2 - nouveau terminal)
+   Activer l'environnement:
+   Windows: venv\Scripts\activate
+   macOS/Linux: source venv/bin/activate
+   
+   Puis:
+   streamlit run materials_dashboard.py
+   
+   ✅ Succès si vous voyez:
+   "Local URL: http://localhost:8501"
+
+▶️ 4.3 ACCÉDER AUX INTERFACES
+   🌐 Dashboard: http://localhost:8501
+   🤖 API: http://localhost:8000
+   📊 Documentation API: http://localhost:8000/docs
+
+===============================================================================
+📊 ÉTAPE 5: VÉRIFICATION DES DONNÉES
+===============================================================================
+
+▶️ 5.1 VÉRIFIER LES DONNÉES MATÉRIAUX
+   Dans le dashboard, vous devez voir:
+   - 525+ matériaux de construction
+   - Catégories: Ciment, Carrelage, Peinture, etc.
+   - Prix en TND (Dinars Tunisiens)
+
+▶️ 5.2 VÉRIFIER LES DONNÉES IMMOBILIÈRES
+   Dans DONNEES_JSON_ORGANISEES/02_PROPRIETES_IMMOBILIERES/:
+   - 6,036+ propriétés tunisiennes
+   - Sources: remax.com.tn, fi-dari.tn, etc.
+
+▶️ 5.3 TESTER L'API
+   Ouvrir: http://localhost:8000/docs
+   Tester l'endpoint /products
+
+===============================================================================
+🔧 UTILISATION AVANCÉE
+===============================================================================
+
+▶️ 6.1 GÉNÉRER UN DEVIS
+   python devis_generator.py
+   
+   Ou via le dashboard:
+   - Aller dans "Estimation Projet"
+   - Sélectionner matériaux et quantités
+   - Générer devis automatique
+
+▶️ 6.2 SCRAPING MANUEL (OPTIONNEL)
+   Pour mettre à jour les données:
+   python brico_direct_scraper.py
+   python multi_site_scraper.py
+
+▶️ 6.3 ANALYSE DES PRIX
+   python simple_price_analyzer.py
+
+===============================================================================
+🛠️ MAINTENANCE ET MISE À JOUR
+===============================================================================
+
+▶️ 7.1 MISE À JOUR DU CODE
+   git pull origin main
+   pip install -r requirements.txt
+
+▶️ 7.2 NETTOYAGE DES DONNÉES
+   python nettoyer_donnees_materiaux.py
+
+▶️ 7.3 SAUVEGARDE
+   Sauvegarder le dossier DONNEES_JSON_ORGANISEES/
+   Sauvegarder les fichiers .csv principaux
+
+===============================================================================
+❗ RÉSOLUTION DES PROBLÈMES COURANTS
+===============================================================================
+
+🐛 PROBLÈME: "Python n'est pas reconnu"
+   ✅ SOLUTION: Réinstaller Python avec "Add to PATH"
+
+🐛 PROBLÈME: "pip install échoue"
+   ✅ SOLUTION: 
+   python -m pip install --upgrade pip
+   pip install --upgrade setuptools wheel
+
+🐛 PROBLÈME: "Playwright browsers manquants"
+   ✅ SOLUTION: playwright install
+
+🐛 PROBLÈME: "Port 8000 ou 8501 occupé"
+   ✅ SOLUTION:
+   API: python llm_api_server.py --port 8001
+   Dashboard: streamlit run materials_dashboard.py --server.port 8502
+
+🐛 PROBLÈME: "Données manquantes"
+   ✅ SOLUTION: Vérifier que DONNEES_JSON_ORGANISEES/ est présent
+
+🐛 PROBLÈME: "Import errors"
+   ✅ SOLUTION: Vérifier l'environnement virtuel activé
+
+===============================================================================
+📈 PERFORMANCES ET OPTIMISATION
+===============================================================================
+
+⚡ POUR DE MEILLEURES PERFORMANCES:
+   - 16GB RAM ou plus
+   - SSD recommandé
+   - Connexion internet stable pour scraping
+   - Fermer applications non nécessaires
+
+⚡ MONITORING:
+   - Dashboard: http://localhost:8501
+   - API Status: http://localhost:8000/health
+   - Logs dans les fichiers .log
+
+===============================================================================
+📞 SUPPORT ET AIDE
+===============================================================================
+
+📂 DOCUMENTATION COMPLÈTE:
+   - README.md: Guide principal
+   - DESCRIPTION_COMPLETE_PROJET.md: Documentation technique
+   - PROJET_FINAL_RESUME.md: Résumé exécutif
+
+🌐 REPOSITORY GITHUB:
+   https://github.com/tekteku/scraper
+
+📧 CONTACT:
+   GitHub: @tekteku
+   Projet: Construction Materials Estimation System
+
+🔗 RESSOURCES UTILES:
+   - Python: https://www.python.org/
+   - Streamlit: https://streamlit.io/
+   - FastAPI: https://fastapi.tiangolo.com/
+   - Playwright: https://playwright.dev/
+
+===============================================================================
+✅ CHECKLIST DE VÉRIFICATION FINALE
+===============================================================================
+
+□ Python 3.12+ installé et fonctionnel
+□ Git installé et repository cloné
+□ Environnement virtuel créé et activé
+□ requirements.txt installé sans erreurs
+□ Playwright browsers installés
+□ API ML/LLM démarre sur port 8000
+□ Dashboard Streamlit démarre sur port 8501
+□ Données matériaux visibles (525+ produits)
+□ Données immobilières accessibles (6,036+ propriétés)
+□ API endpoints répondent (/docs accessible)
+□ Génération de devis fonctionne
+□ Dashboard interactif responsive
+
+===============================================================================
+🎉 FÉLICITATIONS !
+===============================================================================
+
+Votre système d'estimation de matériaux tunisiens est maintenant
+opérationnel sur votre nouvel ordinateur !
+
+🏗️ Fonctionnalités disponibles:
+   ✅ Catalogue de 525+ matériaux tunisiens
+   ✅ Base de 6,036+ propriétés immobilières  
+   ✅ API ML/LLM pour prédictions intelligentes
+   ✅ Dashboard interactif avec visualisations
+   ✅ Génération automatique de devis
+   ✅ Analyses comparatives de prix
+   ✅ Monitoring temps réel
+
+🚀 Le système est prêt pour la production !
+
+===============================================================================
+📝 NOTES IMPORTANTES
+===============================================================================
+
+⚠️ SÉCURITÉ:
+   - Ne jamais commiter de clés API dans Git
+   - Utiliser variables d'environnement pour secrets
+   - Garder les dépendances à jour
+
+⚠️ DONNÉES:
+   - Données datées du 11/06/2025
+   - Mettre à jour régulièrement via scraping
+   - Sauvegarder avant modifications importantes
+
+⚠️ PERFORMANCE:
+   - Surveiller l'utilisation mémoire
+   - Nettoyer régulièrement les logs
+   - Optimiser selon usage
+
+===============================================================================
+FIN DES INSTRUCTIONS
+Bonne utilisation de votre système d'estimation tunisien ! 🇹🇳
+===============================================================================
